@@ -1,5 +1,5 @@
 /*
-	Drift Include by PawnHunter (Jayce)
+	Drift Include by Jayce
 
 	Description:
 		An include which detects drifting with useful callbacks and function for whoever working in a drift gamemode or minigame.
